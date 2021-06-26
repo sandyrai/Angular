@@ -1,1 +1,43 @@
-<p>list-todos works!</p>
+<!-- <div>
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4"></div>
+        <div class="col-md-4"></div>
+    </div>
+</div> -->
+
+
+<div class="container" style="margin-top: 70px;">
+    <h4 style="text-align: center;">My Todos</h4>
+    <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+
+                        <th scope="col">id</th>
+                        <th scope="col">description</th>
+                        <th scope="col">Traget Date</th>
+                        <th scope="col">is completed ?</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+
+                    <tr *ngFor="let todo of todos">
+
+                        <td>{{todo.id}}</td>
+                        <td>{{todo.description}}</td>
+                        <td>{{todo.targetDate| date}}</td>
+                        <td>{{todo.done}}</td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+</div>
