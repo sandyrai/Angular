@@ -16,12 +16,17 @@ A sample angulr project using route,services and components to demo a single pag
 4.Enabling menu navbar using login condition
 
 
+
 <p align="center">
-  <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/images1.JPG" width="350" title="hover text">
-  <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/image2.JPG" width="350" alt="accessibility text">
-    <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/images3.JPG" width="350" alt="accessibility text">
-      <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/image4.JPG" width="350" alt="accessibility text">
-</p>
+  <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/images1.JPG"  title="hover text">
+</p> 
+
+<p align="center"><img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/image2.JPG"  alt="accessibility text"></p>
+<p align="center"><img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/images3.JPG"  alt="accessibility text"></p>
+<p align="center">  <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/image4.JPG"  alt="accessibility text"></p>
+
+
+
 
 ## Further help
 
