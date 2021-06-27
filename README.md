@@ -6,21 +6,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Project Overview
+A sample angulr project using route,services and components to demo a single page application  using Angular and SpringBoot.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Key Feature
+1.Login Authentication
+2.Logout 
+3.RoteGaurd
+4.Enabling menu navbar using login condition
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<p align="center">
+  <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/images1.JPG" width="350" title="hover text">
+  <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/image2.JPG" width="350" alt="accessibility text">
+    <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/images3.JPG" width="350" alt="accessibility text">
+      <img src="https://github.com/sandyrai/Angular/blob/master/src/assets/images/image4.JPG" width="350" alt="accessibility text">
+</p>
 
 ## Further help
 
