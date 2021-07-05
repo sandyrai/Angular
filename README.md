@@ -10,10 +10,16 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 A sample angulr project using route,services and components to demo a single page application  using Angular and SpringBoot.
 
 ## Key Feature
-1.Login Authentication
-2.Logout 
-3.RoteGaurd
-4.Enabling menu navbar using login condition
+<div>
+<ul>
+  <li>1.Login Authentication</li>
+   <li>2.Logout </li>
+  <li>3.RoteGaurd</li>
+   <li>4.Enabling menu navbar using login condition</li>
+</ul>
+
+</div>
+
 
 
 
