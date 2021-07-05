@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 
 //service i can inject this any place i want to use
+//inject into the constructor
 @Injectable({
   providedIn: 'root'
 })
